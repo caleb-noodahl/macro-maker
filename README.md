@@ -1,2 +1,2 @@
-# macro_maker
+# macro-maker
 record and execute macros
